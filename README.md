@@ -5,6 +5,8 @@ The Gender Rewriting Shared Task, WANLP 2022
 
 ## Timeline
 
+## Registration
+
 ## Submission
 
 ## Organizers
